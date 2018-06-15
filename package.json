@@ -1,0 +1,24 @@
+{
+  "name": "pretty.js",
+  "version": "1.0.0",
+  "description": "A wrapper for browsers that support console.log css stylings",
+  "main": "pretty.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eddie Cornelious",
+  "license": "MIT",
+  "dependencies": {
+    "bowser": "^1.9.3"
+  },
+  "devDependencies": {
+    "prettier": "1.13.5"
+  },
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/EddieCornelious/pretty.git"
+  },
+  "bugs": {
+    "url": "https://github.com/EddieCornelious/pretty.git/issues"
+  }
+}
