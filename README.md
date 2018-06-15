@@ -1,4 +1,4 @@
-# Only compatible with browsers that have the %c option for console.log messages and es6 const/let support
+# Only compatible with browsers that have the %c option for console.log messages
 
 ## Max 250 characters per log
 
