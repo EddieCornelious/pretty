@@ -6,4 +6,4 @@
 https://codepen.io/anon/pen/YvrevJ?editors=0010
 
 ## Browser usage :
-https://rawgit.com/EddieCornelious/pretty/master/pretty.js
+https://cdn.jsdelivr.net/gh/EddieCornelious/pretty/pretty.js
