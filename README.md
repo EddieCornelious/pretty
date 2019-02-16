@@ -24,3 +24,6 @@ Please make sure to update tests as appropriate.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+=======
+## Follow the link below to see the project in action :
+https://codepen.io/anon/pen/pqLXWY?editors=0010
