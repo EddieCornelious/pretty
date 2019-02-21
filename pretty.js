@@ -2,7 +2,9 @@ var Pretty =
   Pretty ||
   (function() {
     if (!console || !console.log) {
-      throw new Error('Console and console.log are needed to run this module');
+      throw new Error(
+        'window.console and console.log are needed to run this module'
+      );
     }
 
     function toCSS(prop, value) {
